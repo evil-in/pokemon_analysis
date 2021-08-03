@@ -7,7 +7,7 @@
 >
 ### Techniques used:
 * Cluster Analysis
-Using K-means clustering technique to group similar pokemon based on their charcteristics. 
+Using K-means clustering technique to group similar pokemon based on their characteristics. 
 
 * Logistic Regression Model
 To classification algorithm to predict if a pokemon is legendary or not.
