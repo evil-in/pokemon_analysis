@@ -6,8 +6,8 @@
 * **Code**: [Notebook](https://github.com/evil-in/pokemon_analysis/blob/main/Pokemon_analysis.ipynb)
 >
 ### Techniques used:
-* Cluster Analysis
+* **Cluster Analysis**:
 Using K-means clustering technique to group similar pokemon based on their characteristics. 
 
-* Logistic Regression Model
+* **Logistic Regression Model**: 
 To classification algorithm to predict if a pokemon is legendary or not.
